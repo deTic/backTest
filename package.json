@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.14"
+  },
+  "name": "backTest",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "description": "test of setting a server",
+  "author": "ltisoy",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
